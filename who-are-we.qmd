@@ -1,12 +1,11 @@
 ---
-title: "About"
+title: "Who we are"
 ---
 
 A collection of people passionate about making better digital health care and education a reality.
 
 You do not need to be a clinician to be involved in this work. Our definition of a **Clinician who codes** is:
 
->> "Someone that understands, in deepth, the clinical area being studied and the coding language that is needed to provide great digital innovation to said clinical area. One does not need a formal clinical qualification to satisfy the "clinical" part of this name."
+> "Someone that understands, in deepth, the clinical area being studied and the coding language that is needed to provide great digital innovation to said clinical area. One does not need a formal clinical qualification to satisfy the "clinical" part of this name."
 
-People who have been heavily involved in the Clinician who codes movement include:
-
+We will publish a list of names shortly
