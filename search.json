@@ -2,9 +2,51 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "website",
+    "title": "Home page",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "The Clinicians who code home page"
+  },
+  {
+    "objectID": "education.html",
+    "href": "education.html",
+    "title": "Education",
+    "section": "",
+    "text": "Education here"
+  },
+  {
+    "objectID": "education/index.html",
+    "href": "education/index.html",
+    "title": "placeholder",
+    "section": "",
+    "text": "placeholder"
+  },
+  {
+    "objectID": "education/coding/module-1/lesson-1.html",
+    "href": "education/coding/module-1/lesson-1.html",
+    "title": "placeholder",
+    "section": "",
+    "text": "placeholder"
+  },
+  {
+    "objectID": "education/clinical-informatics/index.html",
+    "href": "education/clinical-informatics/index.html",
+    "title": "placeholder",
+    "section": "",
+    "text": "placeholder"
+  },
+  {
+    "objectID": "education/coding/index.html",
+    "href": "education/coding/index.html",
+    "title": "placeholder",
+    "section": "",
+    "text": "placeholder"
+  },
+  {
+    "objectID": "education/clinical/index.html",
+    "href": "education/clinical/index.html",
+    "title": "placeholder",
+    "section": "",
+    "text": "placeholder"
   },
   {
     "objectID": "about.html",
