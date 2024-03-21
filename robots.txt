@@ -1,1 +1,1 @@
-Sitemap: https://clinicians-who-code.github.io/website/sitemap.xml
+Sitemap: https://clinicians-who-code.org/sitemap.xml
