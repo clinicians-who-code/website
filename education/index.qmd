@@ -1,5 +1,7 @@
 ---
-title: "placeholder"
+title: "Education"
 ---
 
-placeholder
+Available educational resources include:
+
+* [learn to code in python](https://clinicians-who-code.github.io/learn-python/)

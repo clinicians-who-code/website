@@ -10,6 +10,7 @@ website:
       - education.qmd
       - who-are-we.qmd
       - about.qmd
+    logo: "/images/cwc-logo.png"
 
 format:
   html:
